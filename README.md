@@ -1,2 +1,4 @@
-# keras-tutorial
-Personal Keras Tutorial
+# Keras Tutorial
+
+## Reference
+* https://elitedatascience.com/keras-tutorial-deep-learning-in-python#step-1
