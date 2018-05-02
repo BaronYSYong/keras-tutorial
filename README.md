@@ -8,3 +8,4 @@
 * https://github.com/fchollet/keras
 * CS231n: Convolutional Neural Networks for Visual Recognition
     * http://cs231n.stanford.edu/
+* https://github.com/fastforwardlabs/keras-hello-world/blob/master/kerashelloworld.ipynb
